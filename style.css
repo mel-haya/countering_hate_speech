@@ -233,9 +233,10 @@
     text-align: end;
     padding: 10px;
     font-family: sans-serif;
-background: linear-gradient(180deg, rgba(14,92,254,1) 0%, rgba(0,28,85,1) 100%);
-    color:#ffe0ac;
+    background: #26272b;
+    color:#737373;
     font-weight: bold;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 .footer img{
     width: 70px;
