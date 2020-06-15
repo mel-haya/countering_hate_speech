@@ -227,3 +227,17 @@
   font-weight: normal;
   margin: 0;
 }
+.footer{
+    height: 30px;
+    line-height: 30px;
+    text-align: end;
+    padding: 10px;
+    font-family: sans-serif;
+background: linear-gradient(180deg, rgba(14,92,254,1) 0%, rgba(0,28,85,1) 100%);
+    color:#ffe0ac;
+    font-weight: bold;
+}
+.footer img{
+    width: 70px;
+    vertical-align:middle
+}
