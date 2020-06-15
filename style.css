@@ -36,7 +36,7 @@
     border-radius: 5px;
 }
 #Donation_description{
-    color: #777;
+    color: #bbb;
 }
 
 #title{
@@ -88,12 +88,15 @@
 }
 .timeline_content-desc {
   margin: 0;
-  font-size: 15px;
+  font-size: 16px;
   box-sizing: border-box;
-  color: rgba(255, 255, 255, .7);
+  color: rgba(255, 255, 255, .9);
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: normal;
   line-height: 25px;
+    padding: 8px;
+    background: #6668;
+        
 }
 .timeline:before {
   position: absolute;
